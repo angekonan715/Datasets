@@ -1,0 +1,14 @@
+About Dataset
+Finance company deals in all loans. The customer first applies for a home loan after that company validates the customer's eligibility for a loan.
+
+The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling out the online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem identifying the customer segments eligible for loan amounts to target these customers specifically. Here they have provided a partial data set.
+
+Steps to Follow:
+
+1) Problem Statement
+2) Understanding the data
+3) EDA
+4) Perform Univariate & Bivariate Analysis
+5) Missing value and outlier treatment
+6) Evaluation Metrics for classification problem
+7) Model building: Apply ML classification algorithms
